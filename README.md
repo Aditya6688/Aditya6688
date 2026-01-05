@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aditya Roushan
 
-### A passionate Data Scientist
+### A final-year UG student at IIT KGP and passionate about AI/ML
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya6688&label=Profile views&color=0e75b6&style=flat" alt="Aditya6688" /> </p>
 
