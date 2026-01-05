@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/X-Follow_Me-black?logo=x&style=for-the-badge" alt="Follow on X"/>
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/Aditya Roushan" target="_blank">
+    <a href="https://www.linkedin.com/in/aditya-roushan-589296228/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
     </a>
     &nbsp;
