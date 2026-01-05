@@ -31,8 +31,6 @@
 
 - 📫 How to reach me **roushanaditya193@gmail.com**
 
-- ⚡ Fun fact **If it’s repetitive, I try to automate it.**
-
 - 📄 Know about my experiences **[https://drive.google.com/file/d/12VElxLGgT0_uguGwD5foAZAd3PR_V3Ne/view?usp=sharing](https://drive.google.com/file/d/12VElxLGgT0_uguGwD5foAZAd3PR_V3Ne/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
