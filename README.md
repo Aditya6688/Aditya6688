@@ -2,13 +2,32 @@
 
 ### A final-year UG student at IIT KGP and passionate about AI/ML
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya6688&label=Profile views&color=0e75b6&style=flat" alt="Aditya6688" /> </p>
+<div align="center">
+  <h1>Hi 👋, I'm Aditya Roushan</h1>
+  <h3>Final Year UG @ IIT Kharagpur | AI & Data Science Researcher</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aditya6688" alt="Aditya6688" /></a> </p>
+  <p>
+    <em>Building scalable AI Agents, RAG Pipelines, and Automation Tools.</em>
+  </p>
 
-<p align="left"> <a href="https://twitter.com/Adityarou6688" target="blank"><img src="https://img.shields.io/twitter/follow/Adityarou6688?logo=twitter&style=for-the-badge" alt="Adityarou6688" /></a> </p>
+  <p>
+    <a href="https://twitter.com/Adityarou6688" target="_blank">
+      <img src="https://img.shields.io/badge/X-Follow_Me-black?logo=x&style=for-the-badge" alt="Follow on X"/>
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/Aditya Roushan" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="mailto:roushanaditya193@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email Me"/>
+    </a>
+  </p>
+</div>
 
-- 🔭 I'm currently working on **AI Automation**
+---
+
+- 🔭 I'm currently working on **Generative AI**
 
 - 🌱 I'm currently learning **Multi-Agentic System**
 
