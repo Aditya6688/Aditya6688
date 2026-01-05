@@ -1,10 +1,6 @@
-# Hi 👋, I'm Aditya Roushan
-
-### A final-year UG student at IIT KGP and passionate about AI/ML
-
 <div align="center">
   <h1>Hi 👋, I'm Aditya Roushan</h1>
-  <h3>Final Year UG @ IIT Kharagpur | AI & Data Science Researcher</h3>
+  <h3>Final Year UG @ IIT Kharagpur | AI & Data Science enthusiast</h3>
 
   <p>
     <em>Building scalable AI Agents, RAG Pipelines, and Automation Tools.</em>
