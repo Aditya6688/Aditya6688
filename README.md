@@ -37,7 +37,6 @@
   <img src="profile-summary-card-output/radical/3-stats.svg" alt="Aditya's Stats" />
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
   <img src="profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" />
 </p>
 
